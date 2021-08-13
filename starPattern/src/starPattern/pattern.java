@@ -12,7 +12,7 @@ public class pattern {
 			}
 			System.out.println();
 		}
-		System.out.println("Program executed");
+		
 	}
 		/*for(int i=0; i<=4; i++)
 		{
