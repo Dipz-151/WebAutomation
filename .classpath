@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Academy/src/main/java"/>
+	<classpathentry kind="src" path="Academy/src/test/java"/>
+	<classpathentry kind="src" path="DataDrivenTesting/src/test/java"/>
+	<classpathentry kind="src" path="ExcelDataReadWrite/src"/>
+	<classpathentry kind="src" path="ExtentReports/src/test/java"/>
+	<classpathentry kind="src" path="GlobalVariable/src"/>
+	<classpathentry kind="src" path="JavaLearning/src"/>
+	<classpathentry kind="src" path="LearningSelenium/src"/>
+	<classpathentry kind="src" path="Log4j/src"/>
+	<classpathentry kind="src" path="maventutorial/src/main/java"/>
+	<classpathentry kind="src" path="maventutorial/src/test/java"/>
+	<classpathentry kind="src" path="PageObject/src"/>
+	<classpathentry kind="src" path="starPattern/src"/>
+	<classpathentry kind="src" path="TestNGLearning/src"/>
+	<classpathentry kind="output" path="Academy/target/classes"/>
+</classpath>
