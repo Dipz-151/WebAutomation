@@ -1,0 +1,8 @@
+23:39:21.190 [main] INFO  resources.Base - Driver is initialize
+23:39:27.592 [main] INFO  resources.Base - Navigated to home page
+23:39:29.316 [main] INFO  resources.Base - Driver is initialized
+23:39:29.544 [main] INFO  resources.Base - Navigation bar is displayed
+23:54:53.074 [main] INFO  resources.Base - Driver is initialize
+23:54:56.539 [main] INFO  resources.Base - Navigated to home page
+23:54:56.751 [main] INFO  resources.Base - Navigation bar is displayed
+23:54:58.482 [main] INFO  resources.Base - Driver is initialized
