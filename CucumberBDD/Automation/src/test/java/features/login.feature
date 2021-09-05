@@ -21,7 +21,13 @@ Feature: Application login
 
 Scenario: Home page default login
 Given User is on login page
-When User login into application with username and password
+When User login into application with username "John" and password "1234"
 Then User is logged into the application
-And Account information is displayed
+And Account information is displayed "true"
+
+Scenario: Home page default login
+Given User is on login page
+When User login into application with username "Rob" and password "4567"
+Then User is logged into the application
+And Account information is displayed "false"
       
