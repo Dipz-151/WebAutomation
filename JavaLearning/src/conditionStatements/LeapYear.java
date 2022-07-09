@@ -20,5 +20,6 @@ public class LeapYear       // user defined class
         {
             System.out.println("The year" + year + "is not a leap year");
         }
+        System.out.println("Program executed");
     }
 }
